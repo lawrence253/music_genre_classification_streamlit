@@ -89,10 +89,10 @@ music-genre-classification/
 
 ## 👨‍💻 Authors
 
-- Trần Trọng Kiên - 22110093  
-- Châu Gia Kiệt - 22110095  
-- Trương Hồng Kiệt - 22110096  
-- Trương Minh Quân - 22110172
+- Tran Trong Kien
+- Chau Gia Kiet
+- Truong Hong Kiet
+- Truong Minh Quan
 
 ---
 
